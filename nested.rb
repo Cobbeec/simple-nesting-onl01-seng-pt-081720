@@ -15,6 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
+<<<<<<< HEAD
      
    return programmer_hash[:grace_hopper]
 
@@ -131,3 +132,7 @@ end
 
 adding_to_dennis
 
+=======
+end
+
+>>>>>>> b0042962992ff014b3b9edfc3b1e1998ecebbefd
